@@ -1,2 +1,3 @@
 # FancyRecommenderSystem
-A Fancy Recommender Engine with Python
+
+A Fancy Recommender Engine made with Python
