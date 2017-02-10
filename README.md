@@ -1,2 +1,2 @@
-# GraphRecommenderSystem
-A Fancy Graph Recommender Engine with Python
+# FancyRecommenderSystem
+A Fancy Recommender Engine with Python
