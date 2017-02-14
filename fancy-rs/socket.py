@@ -1,4 +1,9 @@
+# This WebSocket provides an OpenApi to the recommender engine.
+
+# Given a product returns a list of recommendations based on product similarity.
+
 from SimpleWebSocketServer import SimpleWebSocketServer, WebSocket
+import pymongo
 
 class SimpleEcho(WebSocket):
 
