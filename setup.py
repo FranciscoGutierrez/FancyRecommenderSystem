@@ -5,16 +5,16 @@ except ImportError:
     from distutils.core import setup
 
 config = {
-    'description': 'My Project',
-    'author': 'My Name',
-    'url': 'URL to get it at.',
-    'download_url': 'Where to download it.',
-    'author_email': 'My email.',
+    'description': 'FancyRecommenderSystem',
+    'author': 'FranciscoGutierrez',
+    'url': 'https://github.com/FranciscoGutierrez/FancyRecommenderSystem',
+    'download_url': 'https://github.com/FranciscoGutierrez/FancyRecommenderSystem',
+    'author_email': 'francisco.gutierrez@cs.kuleuven.be',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['fancy-rs'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'FancyRecommenderSystem'
 }
 
 setup(**config)
